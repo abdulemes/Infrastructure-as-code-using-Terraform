@@ -1,3 +1,5 @@
+## Project Workflow
+
 Step 1 - Open VS code terminal and generate key for log in to our EC2 instance.
 
   Command: ssh keygen
